@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Jeison Montilla
 17
-Mantener la cordura
+
+=======
+No pude subir la carpeta debido a que la carpeta esa vacia
+>>>>>>> 7045cc10eb36b8b2d12396ba23c32a0240ccd3c3
